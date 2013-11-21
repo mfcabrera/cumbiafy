@@ -1,4 +1,5 @@
-
+# Cumbiafy.py - Give a cumbia feeling to any song.
+# Author: Miguel Cabrera <mfcabrera@gmail.com>
 
 import os
 import time

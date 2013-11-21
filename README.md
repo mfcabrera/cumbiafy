@@ -1,5 +1,7 @@
 # Cumbia.fy - Make your music sounds more cumbiambera.
 
+Author: Miguel Cabrera <mfcabrera@gmail.com>
+
 
 Make a song sounds a bit more cumbia
 Originally planned as a small demo for a music Hacking event in Munich in Summer 2012.
