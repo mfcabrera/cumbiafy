@@ -95,10 +95,10 @@ if __name__ == '__main__':
                         help='Output file name - an mp3')
     
     parser.add_argument('-l','--llamador-intensity', type=float,default=1.25,
-                        help='Llamador intensity,  0.5 by default.')
+                        help='Llamador intensity,  1.25 by default.')
     
     parser.add_argument('-g','--guacharaca-intensity', type=float,default=1.25,
-                        help='The guacharaca intensisty, 0.5 by default.')
+                        help='The guacharaca intensisty, 1.25 by default.')
     
     
     args = parser.parse_args()
