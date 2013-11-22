@@ -1,13 +1,16 @@
-# Cumbia.fy - Make your music sounds more cumbiambera.
+# Cumbia.fy - Give you music a little bit of Cumbia.
 
 Author: Miguel Cabrera <mfcabrera@gmail.com>
 
 
-Make a song sounds a bit more cumbia
-Originally planned as a small demo for a music Hacking event in Munich in Summer 2012.
-However my HD died that day, so I couln't show it.
+Make a song sounds a bit more like Cumbia. 
+Cumbia is a popular latin-america genre originated in northern Colombia. This script add the basic Cumbia rythm
+to an existing song. 
+It was originally planned as a small demo for a music Hacking event in Munich in Summer 2012.
+However, my HD died that day, so I couln't show it.
 
-I based my code on  [More Cowbel](http://example.com/)  code of the
+
+I based my code on  [More Cowbel](http://example.com/)  code from the
 [Echonest Remix](http://echonest.github.io/remix/)
 [samples](http://echonest.github.io/remix/examples.html).
 
